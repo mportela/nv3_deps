@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: django-chronograph
+Version: 0.3.1
+Summary: UNKNOWN
+Home-page: http://bitbucket.org/wnielson/django-chronograph
+Author: Weston Nielson
+Author-email: wnielson@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Framework :: Django

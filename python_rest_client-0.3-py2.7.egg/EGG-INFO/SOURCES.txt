@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+src/gae_restful_lib.py
+src/microblog_exceptions.py
+src/mimeTypes.py
+src/restful_lib.py
+src/talis.py
+src/tinyurl.py
+src/twitter.py
+src/httplib2/__init__.py
+src/httplib2/iri2uri.py
+src/python_rest_client.egg-info/PKG-INFO
+src/python_rest_client.egg-info/SOURCES.txt
+src/python_rest_client.egg-info/dependency_links.txt
+src/python_rest_client.egg-info/not-zip-safe
+src/python_rest_client.egg-info/top_level.txt

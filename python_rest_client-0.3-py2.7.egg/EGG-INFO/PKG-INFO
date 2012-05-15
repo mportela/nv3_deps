@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: python-rest-client
+Version: 0.3
+Summary: A REST Client for use in python, using httplib2 and urllib2.
+Home-page: http://code.google.com/p/python-rest-client/
+Author: Benjamin O'Steen
+Author-email: UNKNOWN
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN

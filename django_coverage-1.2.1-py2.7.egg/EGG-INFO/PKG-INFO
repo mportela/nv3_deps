@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: django-coverage
+Version: 1.2.1
+Summary: Django Test Coverage App
+Home-page: http://bitbucket.org/kmike/django-coverage/
+Author: Mikhail Korobov
+Author-email: kmike84@gmail.com
+License: Apache License 2.0
+Download-URL: http://bitbucket.org/kmike/django-coverage/get/1.2.1.zip
+Description: A test coverage reporting tool that utilizes Ned Batchelder's excellent coverage.py to show how much of your code is exercised with your tests.
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Testing
+Requires: django (>=1.2)
+Requires: coverage (>= 2.85)

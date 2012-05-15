@@ -1,0 +1,1 @@
+http://labix.org/download/python-dateutil/python-dateutil-1.5.tar.gz
