@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: django-celery
+Version: 3.0.1
+Summary: Django Celery Integration.
+Home-page: http://celeryproject.org
+Author: Ask Solem
+Author-email: ask@celeryproject.org
+License: BSD
+Description: See http://github.com/celery/django-celery
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Django
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX
+Classifier: Topic :: Communications
+Classifier: Topic :: System :: Distributed Computing
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
