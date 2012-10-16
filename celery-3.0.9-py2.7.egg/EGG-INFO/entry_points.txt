@@ -1,0 +1,12 @@
+[console_scripts]
+celeryctl = celery.bin.celeryctl:main
+celeryd = celery.__main__:_compat_worker
+camqadm = celery.bin.camqadm:main
+celeryev = celery.bin.celeryev:main
+celery = celery.__main__:main
+celeryd-multi = celery.bin.celeryd_multi:main
+celerybeat = celery.bin.celerybeat:main
+
+[bundle.bundles]
+celery = celery.contrib.bundles:bundles
+
