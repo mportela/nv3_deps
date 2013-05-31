@@ -1,0 +1,3 @@
+#!/home/mportela/nv3/venv_1.5/bin/python
+from pylint import run_pylint_gui
+run_pylint_gui()
