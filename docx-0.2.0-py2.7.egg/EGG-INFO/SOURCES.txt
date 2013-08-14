@@ -1,0 +1,6 @@
+docx.py
+setup.py
+docx.egg-info/PKG-INFO
+docx.egg-info/SOURCES.txt
+docx.egg-info/dependency_links.txt
+docx.egg-info/top_level.txt
